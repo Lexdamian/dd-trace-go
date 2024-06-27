@@ -78,7 +78,6 @@ var contribIntegrations = map[string]struct {
 	"github.com/jmoiron/sqlx":                       {"SQLx", false},
 	"github.com/julienschmidt/httprouter":           {"HTTP Router", false},
 	"k8s.io/client-go/kubernetes":                   {"Kubernetes", false},
-	"github.com/labstack/echo":                      {"echo", false},
 	"github.com/labstack/echo/v4":                   {"echo v4", false},
 	"github.com/miekg/dns":                          {"miekg/dns", false},
 	"net/http":                                      {"HTTP", false},
